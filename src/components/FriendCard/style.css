@@ -1,5 +1,5 @@
 img {
-  background-image: url({process.env.PUBLIC_URL} + "/assets/images/pokeball.jpg");
+  background-image: url( /assets/images/pokeball.jpg);
   background-size: contain
 }
 
