@@ -1,0 +1,2 @@
+img{background-image:url({process.env.PUBLIC_URL} + "/assets/images/pokeball.jpg");background-size:contain}img:hover{cursor:pointer;-webkit-transform:scale(1.05);transform:scale(1.05)}*{box-sizing:border-box;font-family:sans-serif}#root,body,html{padding:0;margin:0;height:100%}
+/*# sourceMappingURL=main.62ccc220.chunk.css.map */
