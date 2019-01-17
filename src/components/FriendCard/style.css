@@ -1,0 +1,9 @@
+img {
+  background-image: url("/assets/images/pokeball.jpg");
+  background-size: contain
+}
+
+img:hover{
+  cursor: pointer;
+  transform: scale(1.05);
+}
